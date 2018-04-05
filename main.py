@@ -280,7 +280,7 @@ def main():
         dictStar[index] = star
         reviewList.append([index, text])
         i += 1
-        if i == 5000:
+        if i == 100000:
             break
     f.close()
 
