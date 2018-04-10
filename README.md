@@ -16,3 +16,7 @@ Machine Learning Algorithms used
 1. Logistic Regression
 2. Support Vector Machine
 3. Naive Bayes
+
+![Yelp Logo](/image/ta1.png)
+
+![Yelp Logo](/image/ta2.png)
