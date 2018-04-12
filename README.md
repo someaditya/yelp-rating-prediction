@@ -1,6 +1,6 @@
- # Yelp-Rating-Prediction
-The Yelp dataset is a subset of our businesses, reviews, and user data for use in personal, educational, and academic purposes.
-The dataset contains around 5,200,000 reviews,74,000 businesses,00,000 pictures,1 metropolitan areas, 100,000 tips by 1,300,000 users and 1.2 million business attributes like hours, parking, availability, and ambience.
+# Yelp Rating Prediction
+The Yelp dataset is a subset of their businesses, reviews, and user data for use in personal, educational, and academic purposes.
+The dataset contains around 5,200,000 reviews,74,000 businesses,100,000 pictures,10 metropolitan areas, 100,000 tips by 1,300,000 users and 1.2 million business attributes like hours, parking, availability, and ambience.
 
 ![Yelp Logo](/image/yelp_logo.png)
 
